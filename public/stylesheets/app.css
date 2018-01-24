@@ -1,0 +1,27 @@
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 5.0em;
+}
+
+#delete {
+    display: inline;
+}
+
+.item {
+    display: block;
+}
+
+#index-margin {
+    margin-bottom: 20px;
+}
+
+i.icon {
+    font-size: inherit;
+}
+
+#description-padding {
+    padding: 10px 0px;
+}
